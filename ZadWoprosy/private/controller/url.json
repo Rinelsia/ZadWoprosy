@@ -1,0 +1,10 @@
+{
+	"index":{
+		"1":"private/view/templateView.php",
+		"2":"private/view/testing.php"
+	},
+	"result":{
+		"1":"private/view/templateView.php",
+		"2":"private/view/result.php"
+	}
+}
